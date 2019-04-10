@@ -59,7 +59,7 @@ roslaunch basketbot mapping.launch
 ###My Generated Map
 My generated DB is too big for github so is stored on Google Drive in both zipped and unzipped format. Simply download and issue the same command as below.
 
-[unzipped rtabmap.db](https://drive.google.com/open?id=1IF21DfZuhObm67K9NsVUwdalZ1X2t0e4)#
+[unzipped rtabmap.db](https://drive.google.com/open?id=1IF21DfZuhObm67K9NsVUwdalZ1X2t0e4)
 
 [zipped rtabmap.db.zip](https://drive.google.com/open?id=1VCui1ZcR0mGmwyNhvYoG2pp9KL-ROlm9)
 
